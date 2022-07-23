@@ -9,12 +9,14 @@ first paragraph
   
 second paragraph  
 new line
-|:hourglass: | first class |  second class |
-|------------- | ------------- | ------------- |
-| 2 hour | rubik  | git-hub :+1:  |
-|  1 hour|  learn from english refrence | refrence for learning HTML  |
+|:hourglass:    | first class   |  second class |
+|-------------  | ------------- | ------------- |
+|  2 hour       | rubik         | git-hub :+1:  |
+|  1 hour       |  learn from english refrence | refrence for learning HTML  |
 
 :memo: this language as same as **LATEX**
+  
+  
 </p>
   
 </details>
@@ -34,7 +36,7 @@ graph TD;
   Git-Hub --> create-first-repository;
   create-first-repository --> edit-readme;
   create-first-repository --> learn-Markdown-Language;
-  edit-readme-->learn-Markdoen-Language;
+  edit-readme-->learn-Markdown-Language;
 ```
 
 #### first exercise  _learn rubik_ 
