@@ -7,5 +7,5 @@ new line
 
 this language as same as **LATEX**
 
->Thanks to  **Mr Mihandoost**
->
+>Thanks to  **Mr Mihandoost**  :heart:
+[AliMD](https://github.com/AliMD).
