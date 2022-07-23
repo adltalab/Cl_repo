@@ -12,5 +12,5 @@ new line
 
 
 
-#### first exercise _ _ learn rubik
+#### first exercise  _learn rubik_ 
 ![Rubic](https://media.spinmasterstudios.com/images/products/rubiks/us/778988419533/full1.jpg)
